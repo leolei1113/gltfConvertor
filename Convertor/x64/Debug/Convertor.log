@@ -1,0 +1,29 @@
+﻿  main.cpp
+G:\Convertor\ObjAndGltf\ObjClass.h(20,14): warning C4251: “objStruct::mtlname”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(23,35): warning C4251: “objStruct::vecPnts”: class“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(23): message : 参见“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(24,35): warning C4251: “objStruct::vecNormals”: class“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(23): message : 参见“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(25,32): warning C4251: “objStruct::vecFaces”: class“std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(25): message : 参见“std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(26,36): warning C4251: “objStruct::vecEdges”: class“std::vector<std::tuple<int,int>,std::allocator<std::tuple<int,int>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(26): message : 参见“std::vector<std::tuple<int,int>,std::allocator<std::tuple<int,int>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(28,58): warning C4251: “objStruct::edgeFaceMap”: class“std::map<std::tuple<int,int>,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>,std::less<std::tuple<int,int>>,std::allocator<std::pair<const std::tuple<int,int>,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(28): message : 参见“std::map<std::tuple<int,int>,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>,std::less<std::tuple<int,int>>,std::allocator<std::pair<const std::tuple<int,int>,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(30,41): warning C4251: “objStruct::vtxFaceMap”: class“std::map<int,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>,std::less<int>,std::allocator<std::pair<const int,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(30): message : 参见“std::map<int,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>,std::less<int>,std::allocator<std::pair<const int,std::unordered_set<int,std::hash<int>,std::equal_to<int>,std::allocator<int>>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(40,35): warning C4251: “objStruct::vecFaceNormals”: class“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(23): message : 参见“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(49,36): warning C4251: “objStruct::borders”: class“std::vector<std::tuple<int,int>,std::allocator<std::tuple<int,int>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(26): message : 参见“std::vector<std::tuple<int,int>,std::allocator<std::tuple<int,int>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(63,35): warning C4251: “objStruct::vecPntsTest”: class“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(23): message : 参见“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(64,35): warning C4251: “objStruct::vecNormalsTest”: class“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(23): message : 参见“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>”的声明
+G:\Convertor\ObjAndGltf\ObjClass.h(65,32): warning C4251: “objStruct::vecFacesTest”: class“std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>”需要有 dll 接口由 struct“objStruct”的客户端使用
+G:\Convertor\ObjAndGltf\ObjClass.h(25): message : 参见“std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>”的声明
+G:\Convertor\Convertor\main.cpp(84,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\Convertor\main.cpp(228,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\Convertor\main.cpp(271,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Convertor.vcxproj -> G:\Convertor\x64\Debug\Convertor.exe
