@@ -1,0 +1,7 @@
+﻿  GVObj2Bin.cpp
+  main.cpp
+D:\code\C++\GVProject\src\SLMConvertor\GVObj2Bin\main.cpp(227,20): warning C4101: “e”: 未引用的局部变量
+  ObjParser.cpp
+  ObjWriter.cpp
+  正在生成代码...
+  GVObj2Bin.vcxproj -> D:\code\C++\GVProject\src\SLMConvertor\Debug\GVObj2Bin.exe

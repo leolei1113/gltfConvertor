@@ -1,0 +1,31 @@
+﻿  GVObj2Bin.cpp
+G:\Convertor\GVObj2Bin\GVObj2Bin.cpp(112,20): warning C4101: “e”: 未引用的局部变量
+  ObjParser.cpp
+G:\Convertor\GVObj2Bin\ObjParser.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\Convertor\GVObj2Bin\ObjParser.cpp(167,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ObjWriter.cpp
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(88,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(114,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(135,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(147,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(161,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(185,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(199,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(223,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(237,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(263,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(310,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\algorithm(2806,24): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+G:\Convertor\GVObj2Bin\ObjWriter.cpp(144): message : 查看对正在编译的函数 模板 实例化“void std::replace<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,double>(const _FwdIt,const _FwdIt,const double &,const double &)”的引用
+          with
+          [
+              _Ty=float,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>
+          ]
+  正在生成代码...
+    正在创建库 ../x64/Debug/GVObj2Bin.lib 和对象 ../x64/Debug/GVObj2Bin.exp
+  GVObj2Bin.vcxproj -> G:\Convertor\x64\Debug\GVObj2Bin.dll
